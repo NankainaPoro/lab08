@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab08</string>
+    <string name="lab_new">New</string>
+    <string name="lab_save">Save</string>
+    <string name="lab_delete">Delete</string>
+    <string name="lab_exit">Exit</string>
+    <string name="lab_id">ID</string>
+    <string name="lab_content">Content</string>
+</resources>
